@@ -21,7 +21,7 @@ Py Image Cropper is a web application that allows you to upload an image, previe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/fumui/py-img-cropper.git
+   git clone https://github.com/yordan-marcelino-marcus/py-img-cropper.git
    ```
 
 2. Change to the project directory:
