@@ -1,4 +1,4 @@
-# UAS - Komputer Grafik
+# UAS - Komputer Grafik I
 
 Nama: **Yordan Marcelino Marcus**
 
