@@ -18,7 +18,7 @@ Program ini berfungsi untuk memotong gambar melalui titik kordinat yang ditentuk
 
 ![alt text](https://github.com/yordan-marcelino-marcus/UAS_KOMPUTER_GRAFIK_I_YORDAN_MARCELINO_MARCUS_201011401468_06TPLE005/blob/main/img/2.png?raw=true)
 
-- Setelah itu crop dengan ukuran yang diinginkan (tidak boleh lebih besar daripada ukuran aslinya)
+- Setelah itu crop dengan ukuran yang diinginkan
 
 - Setelah itu tekan tombol **crop**
 - Dan berikut hasilnya
